@@ -11,21 +11,12 @@ div.example {
 p{
   font-size: 18px;
 }
-.res{
-  width: auto;
-  height: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-img {
-  display: block;
-  margin: auto;
-  width: auto;
-}
-.r{
-  width: 95%;
-  height: 20%;
-  padding-left: 0.5px;
+ .r{
+  align-items: left;
+  width: 50%;
+  height: 50%;
+  align-content: center;
+  padding-left: 25%;
 }
 
 
